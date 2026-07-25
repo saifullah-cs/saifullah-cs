@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a **BS Computer Science student (5th semester)** at the **University of Gujarat**, focused on building real, working software rather than just tutorials. My core strength is **Java + MySQL desktop application development**, and I'm currently expanding into **Python with the long-term goal of becoming an AI / Machine Learning Engineer**.
 
@@ -39,7 +39,7 @@ Open To: Internships & Junior Software Engineering roles, Collaborative open-sou
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c)
@@ -52,7 +52,7 @@ Open To: Internships & Junior Software Engineering roles, Collaborative open-sou
 
 ---
 
-## 📚 AI / ML Learning Path
+##  AI / ML Learning Path
 
 | Domain | Status | Details |
 |--------|--------|---------|
@@ -61,10 +61,10 @@ Open To: Internships & Junior Software Engineering roles, Collaborative open-sou
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details>
-<summary><b>💊 Pharmacy POS — Desktop Retail Management System</b></summary>
+<summary><b> Pharmacy POS — Desktop Retail Management System</b></summary>
 
 <br/>
 
@@ -81,7 +81,7 @@ A real, deployable desktop Point-of-Sale application for pharmacy retail operati
 </details>
 
 <details>
-<summary><b>🏫 School Management System</b></summary>
+<summary><b> School Management System</b></summary>
 
 <br/>
 
@@ -95,7 +95,7 @@ A school management system project.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 **Microsoft**
 [![MOS Word](https://img.shields.io/badge/Microsoft_Office_Specialist-Word_2019_Associate-6D28D9?style=for-the-badge&logo=microsoftoffice&logoColor=white)](#)
@@ -107,7 +107,7 @@ A school management system project.
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -120,17 +120,7 @@ A school management system project.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saifullah-cs&theme=radical&no-frame=true&margin-w=10&column=7" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -150,7 +140,7 @@ A school management system project.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 Learning: Python — building toward AI/ML Engineering
