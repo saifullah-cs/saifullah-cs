@@ -144,8 +144,8 @@ A school management system project.
 
 ```yaml
 Learning: Python — building toward AI/ML Engineering
-Building: Pharmacy POS (refactoring for clean architecture & extensibility)
-Exploring: Machine Learning fundamentals
+Built: Pharmacy POS — deployed and in use at a real pharmacy
+Exploring: AI and Machine Learning fundamentals
 Open To: Internships, Junior Software Engineering roles
 ```
 
